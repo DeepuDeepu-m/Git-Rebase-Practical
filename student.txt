@@ -1,0 +1,3 @@
+Name: Student
+Course: Artificial Intelligence
+Subject: Git and GitHub
